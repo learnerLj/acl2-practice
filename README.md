@@ -4,14 +4,19 @@
 sudo bash init-env.sh
 ```
 
+your directory looks like this:
+```
+.
+├── README.md
+├── acl2
+├── init-env.sh
+├── sbcl-2.4.4-x86-64-linux
+└── sbcl.tar.bz2
+```
+
 # Formal language example
 GossipeSub protocol modeling is in `acl2/tree/master/books/workshops/2023/kumar-etal`
 tutorial: https://www.cs.utexas.edu/users/moore/acl2/v8-5/combined-manual/index.html?topic=ACL2____ACL2-TUTORIAL
-
-eclipse modeling, 
-
-
-
 
 
 ## Eclipse Modeling
