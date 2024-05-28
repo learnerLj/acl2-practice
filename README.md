@@ -1,5 +1,5 @@
 # Configure the environment
->= ubuntu 20.04
+ubuntu >= 20.04
 ```bash
 sudo bash init-env.sh
 ```
