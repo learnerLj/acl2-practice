@@ -1,7 +1,3 @@
-# Configure the environment
-
-
-```bash
 #!/bin/bash
 set -eux
 SBCL_NAME=sbcl.tar.bz2
@@ -28,4 +24,3 @@ apt-get install acl2 -y
 # paper code
 cd books/workshops/2023/kumar-etal/
 ./make.sh
-```
